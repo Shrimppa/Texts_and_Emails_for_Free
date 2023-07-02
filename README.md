@@ -6,7 +6,7 @@ This software lets you send emails, and texts out for free.
 
 I wrote this software because you can't find a solution to this problem usually, unless you pay lots of money to someone who provides the service, and so I set out to make a open source tool to do it for free.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/bLHm1sH-2ds)
 
 # Development Environment
 
