@@ -43,11 +43,45 @@ To generate an app passcode for your Google account, follow these steps:
 8. Select Done.
 ## Creating the Google Form
 * Here is a template for the google form if you don't want to make it yourself (may break so tutorial on how to make is provided below): [Link to a Copy of the Form](https://docs.google.com/forms/u/0/d/1oWTTLdqrDoWX8sIywNU9nzkXgOAAiPtrRqR6J68kRaw/copy)
-*  Example of what the form should look like:
+ 
+
+* Example of what the form should look like:
    [Google Form Example](https://docs.google.com/forms/u/0/d/1sgh6TgXYl5S0LR8_JTM7DjhhXYwfDIwVLTmbQO43w_Y/)
-* How to set up the google form: [Setting Up Google Form](https://www.youtube.com)
+
+
+## How to set up the google form questions on your own
+
+
+### First question on form
+![Image should be here](first.png)
+
+
+### Second question on form
+![Image should be here](second.png)
+
+
+### Third question on form
+![Image should be here](third.png)
+
+
+### Fourth question on form
+![Image should be here](fourth.png)
+
+
+### Fifth question on form
+![Image should be here](fifth.png)
+
+
+### Sixth question on form
+![Image should be here](sixth.png)
+
 ## Getting the CSV file from the Google Form
-- [Google Form CSV Download Tutorial](https://www.youtube.com)
+### Go to the Responses part of your google form and click the three dots.
+![Image should be here](download01.png)
+
+### Click on download responses, and then choose a place to put it on your system.
+![Image should be here](download02.png)
+
 ## Making the QR Code
 To make a QR code, you can follow these steps:
 
