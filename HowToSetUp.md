@@ -1,4 +1,10 @@
 # Overview
+
+* To run this software all you need from this github repository is the FreeEmailer.exe
+### Using the Program
+- [Using the executable](https://youtu.be/N7Otm2caGtg)
+
+## Setting up the rest of the things you will need
 You have to create a new Google Account, and use it to open a Gmail Account, this account will be used to manage everything.
 
 Because it's a new account you can transfer access over to someone else without worry.
