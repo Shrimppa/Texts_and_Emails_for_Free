@@ -90,7 +90,7 @@ To make a QR code, you can follow these steps:
 3. Customize the design of your QR code if you want, or leave it as is.
 4. Download your QR code.
 ## Using the Program
-- [Using the executable](https://youtube.com)
+- [Using the executable](https://youtu.be/N7Otm2caGtg)
 ## Useful Tips
 
 - You should create a text file so you can copy, and paste the information into the program without having to go find it. You could even password protect the file so nobody can gain access without it.
