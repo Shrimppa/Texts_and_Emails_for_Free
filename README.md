@@ -39,4 +39,3 @@ In order to package it into a .exe I used Nukita which cross compiles your app i
 
 ## Example Messages
 ![Image should be here](example01.png)
-![Image should be here](example02.png)
